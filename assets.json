@@ -1,0 +1,13 @@
+{
+    "default": [
+      "profile1.png",
+      "defaultImage2.png",
+      "defaultImage3.png"
+    ],
+    "premium": [
+      "randomImage123.png",
+      "anotherRandomImage.png",
+      "userImageX.png"
+    ]
+  }
+  
