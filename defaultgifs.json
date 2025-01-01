@@ -1,15 +1,14 @@
 {
-    "default" : [
-        "henry.gif",
-        "max-sad.gif",
-        "naruto01.gif",
-        "Morty01.gif",
-        "noseboy.gif",
-        "Rik01.gif",
-        "Radiactive-walk.gif"
-    ],
-    "premium": [
-        "hellgirl.gif",
-        "coinboy.gif"
-    ]
+  "default": [
+    "henry.gif",
+    "max-sad.gif",
+    "naruto01.gif",
+    "Morty01.gif",
+    "noseboy.gif",
+    "Rik01.gif",
+    "Radiactive-walk.gif",
+    "pixel-anime-ghost.gif",
+    "pixel-ghost.gif"
+  ],
+  "premium": ["hellgirl.gif", "coinboy.gif"]
 }
