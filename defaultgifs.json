@@ -1,22 +1,21 @@
 {
-    "default" : [
-        "henry.gif",
-        "max-sad.gif",
-        "naruto01.gif",
-        "Morty01.gif",
-        "noseboy.gif",
-        "Rik01.gif",
-        "funky01.gif",
-        "boltboy.gif",
-        "Radiactive-walk.gif",
-        "pixel-anime-ghost.gif",
-        "pixel-ghost.gif",
-        "hellgirl.gif",
-        "coinboy.gif",
-        "chilldude01.gif"
-    ],
-    "premium": [
-        
-    ]
+  "default": [
+    "Morty01.gif",
+    "Rik01.gif",
+    "boltboy.gif",
+    "Radiactive-walk.gif",
+    "pixel-anime-ghost.gif",
+    "pixel-ghost.gif",
+    "brainBot.gif",
+    "frogy-dj-pixel.gif"
+  ],
+  "premium": [
+    "henry.gif",
+    "max-sad.gif",
+    "naruto01.gif",
+    "hellgirl.gif",
+    "noseboy.gif",
+    "coinboy.gif",
+    "chilldude01.gif"
+  ]
 }
-  
